@@ -1,0 +1,12 @@
+#status {
+	width: 50px;
+	display: inline-block;
+	background-color: red;
+	color: white;
+}
+
+#barra {
+	width: 200px;
+	background-color: grey;
+	display: inline-block;
+}
